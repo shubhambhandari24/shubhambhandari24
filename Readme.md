@@ -22,7 +22,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🐍 Contribution Snake
-<object align="center" width="100%" height="200" data="https://raw.githubusercontent.com/shubhambhandari24/shubhambhandari24/output/github-contribution-grid-snake.svg"></object>
+
+<img src="https://raw.githubusercontent.com/shubhambhandari24/shubhambhandari24/output/github-contribution-grid-snake.svg" width="100%" />
+
 
 
 
