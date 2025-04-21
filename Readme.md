@@ -23,7 +23,10 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/shubhambhandari24/shubhambhandari24/output/github-contribution-grid-snake-dark.svg)
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/shubhambhandari24/shubhambhandari24/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
