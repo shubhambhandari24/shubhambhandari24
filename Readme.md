@@ -64,7 +64,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shubhambhandari24&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shubhambhandari24&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=shubhambhandari24&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
