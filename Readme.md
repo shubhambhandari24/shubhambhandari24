@@ -30,6 +30,21 @@
 
 ---
 
+### 🚀 Check Out My Portfolio!
+
+<p align="center">
+  <a href="https://shubham-portfolio-omega-eight.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-Click%20Here-38B2AC?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  ✨ <i>Explore my work, projects, and journey as a developer!</i> ✨
+  <br/><br/>
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
@@ -49,6 +64,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
@@ -64,7 +81,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shubhambhandari24&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shubhambhandari24&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=shubhambhandari24&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
